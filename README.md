@@ -1,13 +1,13 @@
 ![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
-<h1 align="center">Hi 👋, I'm Ndubuisi William</h1>
-<h3 align="center">A passionate frontend developer</h3>
-<img align="right" alt="Animated Coding gif" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<h1 align="center">Hi 👋, I'm William Ndubuisi</h1>
+<h3 align="center">A web developer</h3>
+<img align="right" alt="Animated Coding gif" width="350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-- 🌱 I’m currently learning **The Odin Project and freeCodeCamp**
+- 🌱 I’m currently learning at **The Odin Project and freeCodeCamp**
 
 - 💬 Ask me about **react, django**
 
-- 📫 How to reach me **princewill835@gmail.com**
+- 📫 How to reach me **williamndubuisi@protonmail.com**
 
 - ⚡ Fun fact **I'm Developing as a Developer**
 <br>
