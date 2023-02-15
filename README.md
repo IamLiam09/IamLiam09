@@ -3,11 +3,11 @@
 <h3 align="center">A web developer</h3>
 <img align="right" alt="Animated Coding gif" width="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-- 🌱 I’m currently learning at **The Odin Project and freeCodeCamp** building on technologies and actively prolem solving.
+- 🌱 I’m a software engineer building on technologies and actively prolem solving.
 
-- 💬 Ask me about **react, django** or any other web tech stack
+- 💬 Ask me about **react, django, laravel** or any other web tech stack
 
-- 📫 How to reach me **williamndubuisi@protonmail.com**
+- 📫 How to reach me **williamndubuisidev@yahoo.com**
 
 - ⚡ Fun fact **I'm Developing as a Developer**
 <br>
