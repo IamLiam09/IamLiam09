@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/premium-vector/banner-software-engineer_810894-60.jpg)
+![MasterHead](https://img.freepik.com/premium-vector/banner-software-engineer_810894-60.jpg?w=1060)
 <h1 align="center">Hi 👋, I'm William Ndubuisi</h1>
 <h3 align="center">A web developer</h3>
 <img align="right" alt="Animated Coding gif" width="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
